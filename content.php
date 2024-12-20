@@ -26,33 +26,7 @@ require_once 'controller.php';
     <div class="welcome">
         <h2>Welcome <?php echo htmlspecialchars($_SESSION['name']); ?>...!!!</h2>
     </div>
-    <div class="content">
-        <h3>Dashboard Overview</h3>
-        <p>
-            Welcome to your dashboard! Here, you can find an overview of your recent activities, quick links to important
-            features, and personalized recommendations.
-        </p>
-
-        <h3>Quick Links</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Explicabo quo, iusto ad odit repellat sunt dicta doloribus
-            placeat blanditiis officiis sed numquam, mollitia in maiores
-            repellendus optio eveniet quia! Atque pariatur laborum corporis
-            ipsam voluptate dolore odit dolorum dignissimos nulla harum,
-            repudiandae consequatur amet autem reiciendis mollitia facilis
-            perspiciatis optio accusamus eligendi quos quis.
-            Beatae necessitatibus dolores, quis aliquam fugit itaque,
-            eveniet labore tenetur consequatur, aliquid cupiditate
-            fugiat exercitationem iste rem distinctio expedita!
-            Similique nihil illo corrupti pariatur ipsam cupiditate
-            ipsa, velit rem temporibus deleniti incidunt aliquid ut
-            fugiat eius, nisi vel eveniet! Perferendis
-            ipsa fugit laudantium quia pariatur inventore!
-        </p>
-
-        <div class="cta">
-            <a href="#">Get Started</a>
-        </div>
+    <div>
 
     </div>
 </body>
