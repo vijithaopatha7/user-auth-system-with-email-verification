@@ -26,7 +26,7 @@ require_once 'controller.php';
     <div class="welcome">
         <h2>Welcome <?php echo htmlspecialchars($_SESSION['name']); ?>...!!!</h2>
     </div>
-    <div>
+    <div class="content">
 
     </div>
 </body>
